@@ -1,2 +1,2 @@
-# TechEd2017.HBD603
-TechEd 2017 HBD603: Intro to Native Development with SAP HANA Using SAP Web IDE for SAP HANA Codejam mini-editions
+# TechEd2018.DAT601
+TechEd 2018 DAT601: Intro to HANA Development Using SAP Web IDE for SAP HANA/Fullstack Codejam mini-editions
