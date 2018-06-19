@@ -1,5 +1,5 @@
-# TechEd2017.HBD603
-TechEd 2017 HBD603: Intro to Native Development with SAP HANA Using SAP Web IDE for SAP HANA Codejam mini-editions
+# TechEd2018.DAT601
+TechEd 2018 DAT601: Intro to HANA Development Using SAP Web IDE for SAP HANA/Fullstack Codejam mini-editions
 
 Get a First Look at SAP Web IDE for SAP HANA In this session you will receive your first hands-on experience with the new SAP Web IDE for SAP HANA, for native SAP HANA development. Using SAP Web IDE for SAP HANA, you will build database development artifacts, Node.js-based services, and SAP Fiori and SAPUI5 user interfaces based upon SAP HANA extended application services, advanced model, and the deployment infrastructure for SAP HANA (aka HDI).
 

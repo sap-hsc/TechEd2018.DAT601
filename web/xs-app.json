@@ -10,11 +10,11 @@
 		"authenticationType": "none"
 	}, {
 		"source": "(.*)(.xsjs)",
-		"destination": "js_api",
+		"destination": "xsjs_api",
 		"authenticationType": "none"
 	}, {
 		"source": "(.*)(.xsodata)",
-		"destination": "js_api",
+		"destination": "xsjs_api",
 		"authenticationType": "none"
 	}, {
 		"source": "/(.*)",
@@ -24,9 +24,11 @@
 			"pathSuffixes": [
 				"index.html"
 			],
-			"vars": [
-				"ui5liburl"
-			]
+			"services": {
+				"sapui5_sb": {
+					"tag": "ui5"
+				}
+			}
 		}
 	}]
 }
